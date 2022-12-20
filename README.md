@@ -21,7 +21,7 @@ Modular and object-oriented programmer with years of experience in all stages of
 
 ## Work History
 
-**Lead Database Engineer Software Development** @ [PARLEMENT TECHNOLOGIES](https://www.linkedin.com/company/parlement-technologies) _(Mar 2022 - Dec 2022)_ <br>
+**Lead Database Engineer Software Development** @ [Parlement Technologies](https://www.linkedin.com/company/parlement-technologies) _(Mar 2022 - Dec 2022)_ <br>
 
 
 - Jobs asynchronous creation for scalability, Image optimization and resize and stream to buckets for cdn
