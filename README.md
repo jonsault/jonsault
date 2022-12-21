@@ -33,7 +33,7 @@ availability
 - Laravel / Lumen Api endpoints, routes, helpers, library's creation
 - Notifications for APN FCM complete library and jobs to process all push notifications for mobile apps.
 
-**Senior Software Developer** @ [Product Labs, LLC](https://www.productlabs.ai/)) _(Mar 2018 - Nov 2021)_ <br>
+**Senior Software Developer** @ [Product Labs, LLC](https://www.productlabs.ai/) _(Mar 2018 - Nov 2021)_ <br>
 
 - As team lead, built complete SAAS Platform with PHP Lumen Micro Laravel Framework backend, Vue
 and Jquery HTML5 UI frontend
