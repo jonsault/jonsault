@@ -48,7 +48,7 @@ up UI and alerts, Monit and several others
 - CasperJS, PhantomJS then migrated to NodeJS and Puppeteer for testing and web scraping for data
 not available from api's
 
-**Co-Founding Principal Developer** @ [TuneGO, Inc](https://www.tunego.com)) _(Jan 2013 - Nov 2017)_ <br>
+**Co-Founding Principal Developer** @ [TuneGO, Inc](https://www.tunego.com) _(Jan 2013 - Nov 2017)_ <br>
 
 - TuneGo, a social music discovery network that helps artists and bands get discovered by producers
 - The Author of TuneGO.com, primary developer for the entire platform
@@ -75,8 +75,7 @@ SVN
 - Multiple social networks API integrations to network - mastered API's from Facebook, Twitter, YouTube,
 Sound Cloud, Slacker Radio, Google among others
 
-**Diamond Resorts, Inc**
-**Senior Front End UI/UX Engineer**
+**Senior Front End UI/UX Engineer** @ [Diamond Resorts](https://diamondresorts.com)
 
 - Responsible for developing in-house, single page web applications, to modernize outdated MS server
 reports
