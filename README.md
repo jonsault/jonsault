@@ -3,7 +3,6 @@
 Burnet, Texas USA 🇺🇸
 > [Email](mailto:git@jonsault.com)  
 [Web](https://jonsault.com)  
-[Phone](tel:512-909-1911) 
 
 ## Skills
 
