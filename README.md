@@ -1,8 +1,9 @@
 # Jon Sault
 
-Burnet, Texas 🇺🇸
-- 📫 [Email](mailto:php@jonsault.com)
-- [Web](https://jonsault.com)
+Burnet, Texas USA 🇺🇸
+> [Email](mailto:git@jonsault.com)  
+[Web](https://jonsault.com)  
+[Phone](tel:512-909-1911) 
 
 ## Skills
 
