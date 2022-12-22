@@ -6,13 +6,7 @@ Burnet, Texas USA 🇺🇸
 
 ## Skills
 
-LAMP, PHP, Laravel, Lumen, Percona, Supervisor, Beanstalkd, HTML5, CSS3, SASS, UI, UX, JavaScript
-
-JQuery, jQuery UI, JQuery Mobile, AJAX, JSON, JSONP, XML, XSLT, Angular4, ReactJS, NodeJS, Puppeteer
-
-Python, Express, Jasmin, Karma, MSSQL, MySQL, Oracle, Neo4J, REST API and Web API, Git, Subversion
-
-Docker, Agile ,Scrum, SQL, C, Perl, AWS, S3, EC2, Cloudfront, ElastiCache , FreeBSD, Linux and Win32
+LAMP, PHP, Laravel, Lumen, Percona, Supervisor, Redis, Beanstalkd, HTML5, CSS3, SASS, UI, UX, JavaScript, Vue, JQuery, Angular4, ReactJS, NodeJS, Puppeteer, Golang, Python, Express, Jasmin, Karma, MSSQL, MySQL, Oracle, Git, Subversion, Docker, Kubernetes, CI/CD pipeline, Agile ,Scrum, SQL, C, Perl, AWS, S3, EC2, Cloudfront, ElastiCache , FreeBSD, Ubuntu, Linux, Apache2, Nginx 
 
 Platforms AWS Services, and several API's.
 
@@ -29,7 +23,7 @@ Modular and object-oriented programmer with years of experience in all stages of
 availability
 - Metadata processing, Hive content moderation
 - Optimization of Manticore Api search endpoints on millions for records in milliseconds
-- Gitlab CI, Ansible, Redis, Kubernetes, Docker, Percona clustering, database restructuring
+- Gitlab CI/CD, Ansible, Redis, Kubernetes, Docker, Percona clustering, database restructuring
 - Developed Front-end Vue dropdown autocomplete feature and image uploader streaming
 - Laravel / Lumen Api endpoints, routes, helpers, library's creation
 - Notifications for APN FCM complete library and jobs to process all push notifications for mobile apps.
