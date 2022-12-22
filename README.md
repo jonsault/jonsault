@@ -1,14 +1,11 @@
 # Jon Sault
 
 Burnet, Texas USA 🇺🇸
-> [Email](mailto:git@jonsault.com)  
-[Web](https://jonsault.com)  
+> [Email](mailto:git@jonsault.com) / [Website](https://jonsault.com/) / [LinkedIn](https://www.linkedin.com/in/jonsault) / [GitHub](https://github.com/jonsault)  
 
 ## Skills
 
 LAMP, PHP, Laravel, Lumen, Percona, Supervisor, Redis, Beanstalkd, HTML5, CSS3, SASS, UI, UX, JavaScript, Vue, JQuery, Angular4, ReactJS, NodeJS, Puppeteer, Golang, Python, Express, Jasmin, Karma, MSSQL, MySQL, Oracle, Git, Subversion, Docker, Kubernetes, CI/CD pipeline, Agile ,Scrum, SQL, C, Perl, AWS, S3, EC2, Cloudfront, ElastiCache , FreeBSD, Ubuntu, Linux, Apache2, Nginx 
-
-Platforms AWS Services, and several API's.
 
 ## Professional Summary
 
