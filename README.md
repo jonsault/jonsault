@@ -1,7 +1,8 @@
 # Jon Sault
 
-Burnet, TX 78611
+Burnet, Texas 🇺🇸
 - 📫 [Email](mailto:php@jonsault.com)
+- [Web](https://jonsault.com)
 
 ## Skills
 
