@@ -13,7 +13,7 @@ Modular and object-oriented programmer with years of experience in all stages of
 
 ## Work History
 
-**Senior Full Stack Software Engineer** @ [Campaign Nucleus](https://www.campaignnucleus.com) (Mar 2023 - May 2026)_ <br>
+**Senior Full Stack Software Engineer** @ [Campaign Nucleus](https://www.campaignnucleus.com) (Mar 2023 - May 2026)
 
 
 - SaaS Architecture: Architected and maintained a large-scale SaaS platform utilizing Laravel, Vue.js, and MySQL, significantly improving system uptime and horizontal scalability. 
