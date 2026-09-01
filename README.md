@@ -5,11 +5,16 @@ Burnet, Texas USA 🇺🇸
 
 ## Skills
 
-LAMP, PHP, Laravel, Lumen, Percona, Supervisor, Redis, Beanstalkd, HTML5, CSS3, SASS, UI, UX, JavaScript, Vue, JQuery, Angular4, ReactJS, NodeJS, Puppeteer, Golang, Python, Express, Jasmin, Karma, MSSQL, MySQL, Oracle, Git, Subversion, Docker, Kubernetes, CI/CD pipeline, Agile ,Scrum, SQL, C, Perl, AWS, S3, EC2, Cloudfront, ElastiCache , FreeBSD, Ubuntu, Linux, Apache2, Nginx 
+- Back-End: PHP (Laravel, Lumen), Node.js, Go, Python, Perl, API Design (REST/OAuth2), SQL. 
+- Front-End: Vue.js, React, JavaScript (ES6+), jQuery, HTML5, CSS3/SASS, Responsive Design. 
+- Database & Search: MySQL (Percona XtraDB), Clickhouse, PostgreSQL, MongoDB, Redis, Manticore Search, Oracle. 
+- DevOps & Cloud: AWS (EC2, S3, CloudFront, RDS, ElastiCache), Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, Nginx, Apache. 
+- Testing & Tools: PHPUnit, PEST, Puppeteer, Git, GitHub, Jira, Scrum, Agile, SDLC. 
+- Infrastructure & Messaging: Beanstalkd, Supervisor, Kafka, RabbitMQ, Redis, Linux (Ubuntu/FreeBSD).
 
 ## Professional Summary
 
-Modular and object-oriented programmer with years of experience in all stages of the software lifecycle. Critical approach to data structures and algorithms and a proven ability to provide customized, client-driven solutions that improve business operations and profitability. Expertise in coding, trouble shooting, debugging, and documentation. Detail oriented, intuitive and love to learn new technologies. Never met a challenge I could not solve Authorized to work in the US for any employer
+Accomplished Senior Full Stack Engineer & Software Architect with over 30 years of experience designing, scaling, and deploying enterprise-grade SaaS platforms for up to 3,000+ concurrent users. Expert in the PHP/Laravel ecosystem, Vue.js, and Cloud Infrastructure (AWS/Kubernetes). Proven track record in optimizing high-traffic databases, implementing complex payment integrations (Stripe/Anedot), and leading cross-functional engineering teams. Specialist in migrating legacy systems to modern, scalable microservices architectures and integrating AI-driven workflows.
 
 ## Work History
 
