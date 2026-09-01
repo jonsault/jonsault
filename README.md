@@ -13,6 +13,16 @@ Modular and object-oriented programmer with years of experience in all stages of
 
 ## Work History
 
+**Senior Full Stack Software Engineer** @ [Campaign Nucleus](https://www.campaignnucleus.com) (Mar 2023 - May 2026)_ <br>
+
+
+- SaaS Architecture: Architected and maintained a large-scale SaaS platform utilizing Laravel, Vue.js, and MySQL, significantly improving system uptime and horizontal scalability. 
+- FinTech Integration: Engineered custom payment processing workflows via direct integration with Stripe and Anedot, reducing transaction friction and improving reconciliation accuracy. 
+- Advanced Backend Engineering: Leveraged advanced Laravel features (Service Containers, Middleware, Policies, and API Resources) to build modular, reusable codebase components. 
+- Quality Assurance: Implemented rigorous TDD practices using PHP Unit and PEST, reducing production bug reports by implementing comprehensive unit and integration testing suites. 
+- AI Implementation: Optimized development workflows by integrating AI-assisted tools including Claude, Cursor, and GitHub Copilot for rapid prototyping and code refactoring.
+
+
 **Lead Database Engineer Software Development** @ [Parlement Technologies](https://www.parler.com) _(Mar 2022 - Dec 2022)_ <br>
 
 
